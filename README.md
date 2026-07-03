@@ -26,3 +26,5 @@ A simple Student Management System built using Python and SQLite.
 ## Author
 
 Mohamed Yasser
+
+AI Engineering Student at Mansoura University
